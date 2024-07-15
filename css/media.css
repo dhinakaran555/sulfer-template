@@ -1,0 +1,69 @@
+@media screen and (max-width:767px) {
+    
+}
+
+
+
+
+@media screen and (max-width:320px) {
+    .banner {
+        padding: 50px 0;}
+        .banner-head {
+            font-size: 40px;
+            margin: 0 auto;
+            line-height: 55px;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+            .banner-para {
+                font-size: 28px;
+                color: #fff;
+                width: 100%;
+                line-height: 38px;
+                margin: 0 auto 60px;
+            }
+
+            .aboutus {
+                padding: 50px 0;
+            }
+            .bgsec{
+                padding: 50px 0;
+            }
+            .bg-para{
+                font-size: 20px;
+                line-height: 30px;
+            }
+            .ourteam {
+                padding: 50px 0;
+            }
+            .teamblock {
+                margin-bottom: 15px;
+            }
+            .portfolio {
+                padding: 50px 0;
+            }
+
+            .ourservices {
+                padding: 50px 0;
+            }
+
+            .testimonial {
+                padding: 50px 0;
+            }
+            .testimonial-para{
+                width: 90%;
+            }
+
+            .brand{
+                padding: 50px 0;
+            }
+
+            footer {
+                padding: 50px 0;
+         
+            }
+            form{
+                margin-bottom: 20px;
+            }
+
+}
